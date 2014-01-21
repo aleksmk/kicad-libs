@@ -1,8 +1,23 @@
-EESchema-DOCLIB  Version 2.0  Date: вто, 21 јан 2014 19:34:54 CET
+EESchema-DOCLIB  Version 2.0  Date: вто, 21 јан 2014 19:38:56 CET
+#
+$CMP TLC5916
+D 8-Bit Constant-Current LED Sink Driver 
+K Led driver, constant-current, sink driver
+$ENDCMP
 #
 $CMP TLC5951
 D 24-Channel, 12-Bit PWM LED Driver with 7-Bit Dot Correction and 3-Group, 8-Bit Global Brightness Control
 K Led driver, PWM driver, constant current
+$ENDCMP
+#
+$CMP TPIC6595
+D Power logic 8-bit shift register
+K shift register, power, 8-bit
+$ENDCMP
+#
+$CMP TPIC6C595
+D Power logic 8-bit shift register
+K shift register, power, 8-bit
 $ENDCMP
 #
 #End Doc Library
