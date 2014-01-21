@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: вто, 21 јан 2014 19:34:54 CET
+#
+$CMP TLC5951
+D 24-Channel, 12-Bit PWM LED Driver with 7-Bit Dot Correction and 3-Group, 8-Bit Global Brightness Control
+K Led driver, PWM driver, constant current
+$ENDCMP
+#
+#End Doc Library
