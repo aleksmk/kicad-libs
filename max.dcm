@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: чет, 13 мар 2014 01:32:31 CET
+#
+$CMP MAX7219
+D Serially Interfaced, 8-Digit LED Display Driver
+K led, 7segment, display driver, led driver
+$ENDCMP
+#
+#End Doc Library
