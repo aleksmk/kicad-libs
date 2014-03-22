@@ -1,9 +1,15 @@
-EESchema-DOCLIB  Version 2.0  Date: пон, 27 јан 2014 14:30:25 CET
+EESchema-DOCLIB  Version 2.0  Date: саб, 22 мар 2014 20:58:45 CET
 #
 $CMP AP2301GN
 D PMOS 20V 2.6A 1.38W 130mOhm/5V; 190mOhm/2.8V
 K P-Channel MOSFET Logic Level
 F http://www.yuanqijian.com/upload/15/260/AP2301GN.pdf
+$ENDCMP
+#
+$CMP IR7307
+D HEXFET PMOS and NMOS (DUAL) Power MOSFET
+K dual, nmos, pmos, hexfet, mosfet
+F http://www.irf.com/product-info/datasheets/data/irf7307qpbf.pdf
 $ENDCMP
 #
 #End Doc Library
