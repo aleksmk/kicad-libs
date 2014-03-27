@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: чет, 27 мар 2014 23:13:05 CET
+#
+$CMP LM2904D
+D Dual OpAmp
+K opamp, dual, single supply, dual supply
+F http://www.ti.com/lit/ds/symlink/lm2904.pdf
+$ENDCMP
+#
+#End Doc Library
