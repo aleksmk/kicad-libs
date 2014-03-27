@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: саб, 22 мар 2014 20:58:45 CET
+EESchema-DOCLIB  Version 2.0  Date: чет, 27 мар 2014 23:27:38 CET
 #
 $CMP AP2301GN
 D PMOS 20V 2.6A 1.38W 130mOhm/5V; 190mOhm/2.8V
@@ -10,6 +10,12 @@ $CMP IR7307
 D HEXFET PMOS and NMOS (DUAL) Power MOSFET
 K dual, nmos, pmos, hexfet, mosfet
 F http://www.irf.com/product-info/datasheets/data/irf7307qpbf.pdf
+$ENDCMP
+#
+$CMP MMBT2222
+D NPN General Purpose Amplifier
+K NPN, transistor, 2222, 2n2222
+F http://www.fairchildsemi.com/ds/MM/MMBT2222.pdf
 $ENDCMP
 #
 #End Doc Library
