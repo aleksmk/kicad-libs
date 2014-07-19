@@ -1,4 +1,9 @@
-EESchema-DOCLIB  Version 2.0  Date: чет, 13 мар 2014 01:32:31 CET
+EESchema-DOCLIB  Version 2.0  Date: саб, 19 јул 2014 02:53:18 CEST
+#
+$CMP DS1307
+D Maxim RTC Chip
+F http://datasheets.maximintegrated.com/en/ds/DS1307.pdf
+$ENDCMP
 #
 $CMP MAX7219
 D Serially Interfaced, 8-Digit LED Display Driver
