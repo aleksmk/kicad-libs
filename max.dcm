@@ -1,8 +1,13 @@
-EESchema-DOCLIB  Version 2.0  Date: саб, 19 јул 2014 02:53:18 CEST
+EESchema-DOCLIB  Version 2.0  Date: нед, 05 окт 2014 21:55:59 CEST
 #
 $CMP DS1307
 D Maxim RTC Chip
 F http://datasheets.maximintegrated.com/en/ds/DS1307.pdf
+$ENDCMP
+#
+$CMP MAX6195
+D Low-Dropout Voltage References
+K reference, ldo, stable
 $ENDCMP
 #
 $CMP MAX7219
