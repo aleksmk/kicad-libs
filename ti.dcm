@@ -1,4 +1,10 @@
-EESchema-DOCLIB  Version 2.0  Date: пон, 26 мај 2014 21:28:56 CEST
+EESchema-DOCLIB  Version 2.0  Date: пон, 10 ное 2014 00:14:51 CET
+#
+$CMP DAC121S101
+D The DAC121S101 is a full-featured, general purpose 12-bit voltage-output digital-to-analog converter (DAC) that can operate from a single +2.7V to 5.5V supply and consumes just 177 μA of current at 3.6 Volts.
+K DAC, 12bit, converter
+F http://www.ti.com/lit/ds/symlink/dac121s101-q1.pdf
+$ENDCMP
 #
 $CMP TLC5916
 D 8-Bit Constant-Current LED Sink Driver 
