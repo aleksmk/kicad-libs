@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: нед, 16 ное 2014 01:54:54 CET
+EESchema-LIBRARY Version 2.3  Date: пет, 06 фев 2015 22:12:35 CET
 #encoding utf-8
 #
 # DAC121S101
@@ -30,8 +30,8 @@ DRAW
 P 5 0 1 8  -50 65  -30 45  30 45  50 25  50 25 N
 P 5 0 1 0  0 45  -50 -55  50 -55  0 45  0 45 F
 X Ref 1 200 0 177 L 40 40 1 1 I
-X K 2 0 200 150 D 40 40 1 1 I
-X A 3 0 -200 150 U 40 40 1 1 I
+X A 2 0 -200 150 U 40 40 1 1 I
+X K 3 0 200 150 D 40 40 1 1 I
 ENDDRAW
 ENDDEF
 #
