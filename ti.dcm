@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: вто, 12 мај 2015 21:14:04 CEST
+EESchema-DOCLIB  Version 2.0  Date: вто, 12 мај 2015 21:16:31 CEST
 #
 $CMP DAC121S101
 D The DAC121S101 is a full-featured, general purpose 12-bit voltage-output digital-to-analog converter (DAC) that can operate from a single +2.7V to 5.5V supply and consumes just 177 μA of current at 3.6 Volts.
@@ -7,6 +7,12 @@ F http://www.ti.com/lit/ds/symlink/dac121s101-q1.pdf
 $ENDCMP
 #
 $CMP OPA735AID
+D 05uV/degC (max), Single-Supply CMOS Zero-Drift Series Operational Amplifier
+K opamp, rail-to-rail
+F http://www.ti.com/lit/gpn/opa735
+$ENDCMP
+#
+$CMP OPA735AIDBVT
 D 05uV/degC (max), Single-Supply CMOS Zero-Drift Series Operational Amplifier
 K opamp, rail-to-rail
 F http://www.ti.com/lit/gpn/opa735
