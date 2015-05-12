@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: пон, 06 апр 2015 02:49:07 CEST
+#
+$CMP LTC1563
+D Active Lowpass Filter RC, 4th Order
+K filter, rc, lowpass
+F https://cds.linear.com/docs/en/datasheet/156323fa.pdf
+$ENDCMP
+#
+#End Doc Library
