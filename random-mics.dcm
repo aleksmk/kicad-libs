@@ -1,3 +1,27 @@
-EESchema-DOCLIB  Version 2.0  Date: пон, 06 окт 2014 03:18:36 CEST
+EESchema-DOCLIB  Version 2.0  Date: сре, 13 мај 2015 16:21:29 CEST
+#
+$CMP 7905
+D Linear Regulator -5V
+K POWER REGUL
+F regulator\lm79xx.pdf
+$ENDCMP
+#
+$CMP 79L05
+D Linear Regulator -5V ; Pin numbers
+K POWER, REGULATOR, NEGATIVE
+F http://www.ti.com/lit/ds/symlink/lm79l15ac.pdf
+$ENDCMP
+#
+$CMP LM7905
+D Linear Regulator -5V
+K POWER REGUL
+F regulator\lm79xx.pdf
+$ENDCMP
+#
+$CMP LM7912
+D Linear Regulator -12V
+K POWER REGUL
+F regulator\lm79xx.pdf
+$ENDCMP
 #
 #End Doc Library
