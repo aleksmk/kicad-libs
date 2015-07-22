@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: сре, 22 јул 2015 23:08:32 CEST
+#
+$CMP EPM3064A-44TQFP
+D EPM3064A CPLD from the MAX3000A series of CPLDs in 44pin TQFP package
+K altera, cpld, max3000a
+F https://www.altera.com/en_US/pdfs/literature/ds/m3000a.pdf
+$ENDCMP
+#
+$CMP EPM3128-100TQFP
+D EPM3128A CPLD from the MAX3000A series of CPLDs in 100pin TQFP package
+K cpld, max3000a, altera
+F https://www.altera.com/en_US/pdfs/literature/ds/m3000a.pdf
+$ENDCMP
+#
+#End Doc Library
