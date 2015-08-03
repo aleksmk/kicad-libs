@@ -1,4 +1,10 @@
-EESchema-DOCLIB  Version 2.0  Date: пон, 06 апр 2015 02:49:07 CEST
+EESchema-DOCLIB  Version 2.0  Date: пон, 03 авг 2015 20:43:46 CEST
+#
+$CMP LT1008
+D Picoamp Input Current, Microvolt Offset, Low Noise Op Amp
+K picoamp, microvolt, low noise
+F http://www.linear.com/docs/1757
+$ENDCMP
 #
 $CMP LTC1563
 D Active Lowpass Filter RC, 4th Order
