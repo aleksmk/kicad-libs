@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: нед, 06 сеп 2015 17:16:20 CEST
+EESchema-LIBRARY Version 2.3  Date: нед, 06 сеп 2015 17:17:09 CEST
 #encoding utf-8
 #
 # +15V
@@ -41,7 +41,7 @@ T 0 0 200 79 0 0 0 A  Normal 0 C C
 T 0 0 -250 79 0 0 0 B  Normal 0 C C
 T 0 0 -700 79 0 0 0 C  Normal 0 C C
 T 0 0 -1150 79 0 0 0 D  Normal 0 C C
-S -350 700 350 -1850 0 0 0 N
+S -350 700 350 -1850 0 0 0 f
 C -150 -1050 50 0 1 0 N
 C -150 -600 50 0 1 0 N
 C -150 -150 50 0 1 0 N
