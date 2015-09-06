@@ -1,4 +1,10 @@
-EESchema-DOCLIB  Version 2.0  Date: пет, 31 јул 2015 13:03:52 CEST
+EESchema-DOCLIB  Version 2.0  Date: нед, 06 сеп 2015 17:16:20 CEST
+#
+$CMP 10H125
+D Quad MECL-to-TTL translator
+K translator, mecl, ecl, ttl
+F http://www.onsemi.com/pub_link/Collateral/MC10H125-D.PDF
+$ENDCMP
 #
 $CMP LM35
 D LM35, Precision Centigrade Temperature Sensor
