@@ -1,3 +1,9 @@
-EESchema-DOCLIB  Version 2.0  Date: чет, 21 мај 2015 20:57:23 CEST
+EESchema-DOCLIB  Version 2.0  Date: нед, 06 сеп 2015 16:22:59 CEST
+#
+$CMP AD96687BP
+D Dual ultrafast comparators in 20pin PLCC package
+K comparator, ultrafast
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD96685_96687.pdf
+$ENDCMP
 #
 #End Doc Library
