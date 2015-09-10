@@ -1,17 +1,25 @@
-PCBNEW-LibModule-V1  чет, 10 сеп 2015 23:28:48 CEST
+PCBNEW-LibModule-V1  чет, 10 сеп 2015 23:31:58 CEST
 # encoding utf-8
 Units mm
 $INDEX
 MP_relay_smd
 $EndINDEX
 $MODULE MP_relay_smd
-Po 0 0 0 15 55F1F255 00000000 ~~
+Po 0 0 0 15 55F1F6CB 00000000 ~~
 Li MP_relay_smd
 Sc 0
 AR 
 Op 0 0 0
 T0 0 10.16 1 1 0 0.15 N V 21 N "MP_relay_smd"
 T1 0 -10.16 1 1 0 0.15 N V 21 N "VAL**"
+DS -7.112 4.191 -7.112 -5.08 0.15 21
+DS 7.112 -5.08 7.112 4.191 0.15 21
+DS -6.604 -2.413 -6.604 0.635 0.15 21
+DS -6.604 0.635 -7.112 0.635 0.15 21
+DS -7.112 0.635 -7.112 -2.413 0.15 21
+DS -7.112 -2.413 -6.604 -2.413 0.15 21
+DS -7.112 -5.08 7.112 -5.08 0.15 21
+DS 7.112 4.191 -7.112 4.191 0.15 21
 $PAD
 Sh "1" R 1.2 3.2 0 0 0
 Dr 0 0 0
@@ -20,63 +28,63 @@ Ne 0 ""
 Po -5.08 4.1148
 $EndPAD
 $PAD
-Sh "1" R 1.2 3.2 0 0 0
+Sh "2" R 1.2 3.2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -2.54 4.1148
 $EndPAD
 $PAD
-Sh "1" R 1.2 3.2 0 0 0
+Sh "3" R 1.2 3.2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0 4.1148
 $EndPAD
 $PAD
-Sh "1" R 1.2 3.2 0 0 0
+Sh "4" R 1.2 3.2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.54 4.1148
 $EndPAD
 $PAD
-Sh "1" R 1.2 3.2 0 0 0
+Sh "5" R 1.2 3.2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 5.08 4.1148
 $EndPAD
 $PAD
-Sh "1" R 1.2 3.2 0 0 0
+Sh "6" R 1.2 3.2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 5.08 -5.08
 $EndPAD
 $PAD
-Sh "1" R 1.2 3.2 0 0 0
+Sh "7" R 1.2 3.2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.54 -5.08
 $EndPAD
 $PAD
-Sh "1" R 1.2 3.2 0 0 0
+Sh "8" R 1.2 3.2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0 -5.08
 $EndPAD
 $PAD
-Sh "1" R 1.2 3.2 0 0 0
+Sh "9" R 1.2 3.2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -2.54 -5.08
 $EndPAD
 $PAD
-Sh "1" R 1.2 3.2 0 0 0
+Sh "10" R 1.2 3.2 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
