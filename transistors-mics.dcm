@@ -1,9 +1,15 @@
-EESchema-DOCLIB  Version 2.0  Date: чет, 27 мар 2014 23:28:28 CET
+EESchema-DOCLIB  Version 2.0  Date: пет, 11 сеп 2015 21:04:47 CEST
 #
 $CMP AP2301GN
 D PMOS 20V 2.6A 1.38W 130mOhm/5V; 190mOhm/2.8V
 K P-Channel MOSFET Logic Level
 F http://www.yuanqijian.com/upload/15/260/AP2301GN.pdf
+$ENDCMP
+#
+$CMP BF511
+D RF JFet transistor, IDSS<7mA
+K RF, JFet, FET
+F http://www.nxp.com/documents/data_sheet/BF510_511_512_513_CNV.pdf
 $ENDCMP
 #
 $CMP IR7307
