@@ -1,9 +1,15 @@
-EESchema-DOCLIB  Version 2.0  Date: нед, 06 сеп 2015 17:17:09 CEST
+EESchema-DOCLIB  Version 2.0  Date: нед, 08 ное 2015 15:53:26 CET
 #
 $CMP 10H125
 D Quad MECL-to-TTL translator
 K translator, mecl, ecl, ttl
 F http://www.onsemi.com/pub_link/Collateral/MC10H125-D.PDF
+$ENDCMP
+#
+$CMP IR2110S
+D VMOS Driver SMD version!
+K VMOS
+F http://www.irf.com/product-info/datasheets/data/ir2110.pdf
 $ENDCMP
 #
 $CMP LM35
