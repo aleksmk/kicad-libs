@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: нед, 08 ное 2015 15:53:26 CET
+EESchema-DOCLIB  Version 2.0  Date: чет, 26 ное 2015 02:30:04 CET
 #
 $CMP 10H125
 D Quad MECL-to-TTL translator
@@ -16,6 +16,12 @@ $CMP LM35
 D LM35, Precision Centigrade Temperature Sensor
 K temperature, sensor, precision
 F http://www.ti.com/lit/ds/symlink/lm35.pdf
+$ENDCMP
+#
+$CMP MIC29302
+D 3A fast response LDO regulator
+K ldo, linear regulator
+F http://www.micrel.com/_PDF/MIC29302A.pdf
 $ENDCMP
 #
 #End Doc Library
