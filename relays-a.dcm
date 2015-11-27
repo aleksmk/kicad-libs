@@ -1,3 +1,7 @@
-EESchema-DOCLIB  Version 2.0  Date: вто, 04 авг 2015 20:57:31 CEST
+EESchema-DOCLIB  Version 2.0  Date: пет, 27 ное 2015 14:25:04 CET
+#
+$CMP RELAY-SPST
+D Relay, 1 Form A contact, Omron G2RL-1A
+$ENDCMP
 #
 #End Doc Library
