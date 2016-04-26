@@ -1,8 +1,14 @@
-EESchema-DOCLIB  Version 2.0  Date: вто, 19 мај 2015 19:28:50 CEST
+EESchema-DOCLIB  Version 2.0
 #
 $CMP DS1307
 D Maxim RTC Chip
 F http://datasheets.maximintegrated.com/en/ds/DS1307.pdf
+$ENDCMP
+#
+$CMP DS8500
+D The DS8500 is a single-chip modem with Highway Addressable Remote Transducer (HART) capabilities
+K HART, FSK, 1200, 2400
+F https://datasheets.maximintegrated.com/en/ds/DS8500.pdf
 $ENDCMP
 #
 $CMP MAX6195
