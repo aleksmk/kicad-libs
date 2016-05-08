@@ -21,4 +21,10 @@ D Serially Interfaced, 8-Digit LED Display Driver
 K led, 7segment, display driver, led driver
 $ENDCMP
 #
+$CMP MAX9617
+D Single SC70, Zero-Drift, High-Efficiency, 1.5MHz Op Amp with RRIO
+K opamp, rail-to-rail
+F http://datasheets.maximintegrated.com/en/ds/MAX9617-MAX9620.pdf
+$ENDCMP
+#
 #End Doc Library
