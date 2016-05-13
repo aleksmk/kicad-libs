@@ -1,9 +1,22 @@
-EESchema-DOCLIB  Version 2.0  Date: чет, 26 ное 2015 02:30:04 CET
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +2V8
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3V8
+K POWER, PWR
+$ENDCMP
 #
 $CMP 10H125
 D Quad MECL-to-TTL translator
 K translator, mecl, ecl, ttl
 F http://www.onsemi.com/pub_link/Collateral/MC10H125-D.PDF
+$ENDCMP
+#
+$CMP GL865
+D Telit GL865-QUAD/DUAL GSM/GPRS module
+K GSM, TELIT, GPRS
 $ENDCMP
 #
 $CMP IR2110S
