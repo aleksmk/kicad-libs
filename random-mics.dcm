@@ -37,6 +37,11 @@ K ldo, linear regulator
 F http://www.micrel.com/_PDF/MIC29302A.pdf
 $ENDCMP
 #
+$CMP RJ45-TS8P8C
+D RJ45, status leds
+K RJ45 RJ45_LEDS
+$ENDCMP
+#
 $CMP W5100
 D A full-featured, single-chip Internet-enabled 10/100 Ethernet controller designed for embedded applications
 K Ethernet, Eth, WizNet
